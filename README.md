@@ -1,8 +1,8 @@
 Team Members:
-Elese Marie Zukina | emz62@pitt.edu
-David Shepherd | dps80@pitt.edu
-Korosh Lasiang | kol21@pitt.edu
-Brian Lee | brl219@pitt.edu
+- Elese Marie Zukina | emz62@pitt.edu
+- David Shepherd | dps80@pitt.edu
+- Korosh Lasiang | kol21@pitt.edu
+- Brian Lee | brl219@pitt.edu
 
 Have you ever had a schedule so stressful that you didn't know how you could ever possibly manage it all? 
 Have you ever wanted advice on how to manage your schedule effectively, but you don't know where to start?
