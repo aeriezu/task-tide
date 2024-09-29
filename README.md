@@ -4,6 +4,7 @@ Team Members:
 - Korosh Lasiang | kol21@pitt.edu
 - Brian Lee | brl219@pitt.edu
 
+
 Have you ever had a schedule so stressful that you didn't know how you could ever possibly manage it all? 
 Have you ever wanted advice on how to manage your schedule effectively, but you don't know where to start?
 Look no further, for this is the perfect site. Welcome to TaskTide.
