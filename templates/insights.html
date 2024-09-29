@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>TaskTide</title>
+        <link href= link href="https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy:ital@0;1&display=swap" rel="stylesheet">
+        <style>
+			/* Dark-blue #083447 Light-blue #2c9ac1 Background #f6fbf8*/
+
+            body {
+                font-family: "Sorts Mill Goudy"; 
+                margin: 0;
+                padding: 0;
+                position: relative;
+                text-align: center;
+                height: 100vh; /* Ensure the body takes full viewport height */
+            }
+
+            /* Hero section with background image */
+            .hero {
+                background-color: #f6fbf8;
+                background-size: cover;
+                background-position: center;
+                width: 100%;
+                height: 35vh; /* Reduced the height of the hero section */
+                position: relative;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                color: #083447; /* Text color for h1 and h2 */
+            }
+
+            /* Hero text */
+            .hero h1 {
+				font-family: "Sorts Mill Goudy";
+                margin: 20px;
+                font-size: 42px;
+                color: #083447;
+            }
+
+            /* Navigation bar styling */
+            .navbar {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                background-color: #083447;
+                padding: 15px 30px;
+                position: absolute;
+                top: 0;
+                width: 100%;
+            }
+
+            /* Logo styling - Left aligned */
+            .navbar img {
+                height: 60px;
+            }
+
+            /* Navbar links - Right aligned */
+            .navbar-links {
+                display: flex;
+				padding-right: 40px;
+            }
+
+            .navbar-links a {
+                color: #f6fbf8;
+                padding: 16px 25px;
+                text-decoration: none;
+                text-align: center;
+                font-size: 22px;
+                font-weight: bold;
+                margin: 0 15px;
+                border-radius: 5px;
+            }
+
+            .navbar-links a:hover {
+                background-color: #065a73;
+                color: #fff;
+            }
+
+            /* Content under the hero */
+            .main-content {
+                background-color: #2c9ac1; /* Bottom half background color */
+                height: 65vh; /* Remaining part of the viewport */
+                padding: 20px;
+                text-align: center;
+                color: #fff;
+            }
+
+            p {
+                font-size: 24px;
+                margin: 20px auto;
+                width: 60%;
+                color: #fff;
+            }
+        </style>
+    </head>
+
+    <body>
+        <!-- Hero section with background image and centered text -->
+        <div class="hero">
+            <h1>Here are your weekly insights</h1>
+        </div>
+
+        <!-- Navigation bar with logo on the left and links on the right -->
+        <div class="navbar">
+            <img src="Hackathon/static/tasktidesmalllogowhite.png" alt="TaskTide Logo">
+            <div class="navbar-links">
+                <a href="#home">Home</a>
+                <a href="#Insights">Insights</a>
+                <a href="#StudyTracker">StudyTracker</a>
+            </div>
+        </div>
+
+        <!-- Main content area -->
+        <div class="main-content">
+            <p>Here is a summary of how you spent your study time this week!
+            </p>
+        </div>
+    </body>
+</html>
