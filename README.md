@@ -1,5 +1,5 @@
 Team Members:
-- Elese Marie Zukina | emz62@pitt.edu
+- Elese Marie Zukina | emz62@pitt.edu & emzukina@gmail.com
 - David Shepherd | dps80@pitt.edu
 - Korosh Lasiang | kol21@pitt.edu
 - Brian Lee | brl219@pitt.edu
