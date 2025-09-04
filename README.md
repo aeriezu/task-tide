@@ -23,6 +23,6 @@ time you spend studying for your subjects, the insight page will generate a char
 the toal times spend studying for each subject that week.
 
 With so many amazing features in one application, you can be sure to maximize your productivity and 
-minimize your stress levels. So join the TaskTide community, where you make a schedule that flows!
+minimize your stress levels. So join the TaskTide community, where you make a schedule that flows!        
 
 https://tasktide.pythonanywhere.com/
